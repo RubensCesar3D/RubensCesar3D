@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Rubens Cesar
 - 👀 I’m interested in Game Dev
 - 🌱 I’ve graduated from George Brown College from the Game Development program focused on 3D 
-- 💞️ I’m well versed in 3D art and FX for games
+- 💞️ I’m a 3D Techinical Artist
